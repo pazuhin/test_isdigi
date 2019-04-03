@@ -103,8 +103,8 @@
       <file leaf-file-name="home.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Views/home.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="60">
+              <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -119,6 +119,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -145,12 +148,13 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="168" />
     <option name="y" value="54" />
     <option name="width" value="1590" />
     <option name="height" value="922" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -163,6 +167,11 @@
             <path>
               <item name="test_isdigi" type="b2602c69:ProjectViewProjectNode" />
               <item name="test_isdigi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_isdigi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_isdigi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -201,12 +210,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554223797666</updated>
-      <workItem from="1554223799343" duration="19552000" />
+      <workItem from="1554223799343" duration="19793000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19552000" />
+    <option name="totallyTimeSpent" value="19793000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -218,16 +227,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32921812" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.2788066" />
-      <window_info anchor="bottom" id="Database Console" weight="0.38186157" />
+      <window_info anchor="bottom" id="Database Console" weight="0.38168725" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.117866665" />
       <window_info anchor="bottom" id="SQL Generator" weight="0.32921812" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -407,8 +415,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Views/home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="60">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
         </state>
       </provider>
     </entry>
