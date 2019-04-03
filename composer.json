@@ -1,0 +1,19 @@
+{
+  "name": "user/quick.start",
+  "scripts": {
+    "phpcs": "./vendor/bin/phpcs --colors --standard=PSR12 src/",
+    "phpmd": "./vendor/bin/phpmd src/ text cleancode,codesize,controversial,design,naming,unusedcode"
+  },
+  "authors": [
+    {
+      "name": "Andrey Smirnov",
+      "email": "andrew_1024@mail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4":
+    {
+      "src\\": "src/"
+    }
+  }
+}
